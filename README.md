@@ -33,15 +33,15 @@ Passionate about crafting autonomous AI agents and LLM-powered applications. Cur
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/yourusername" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/penkard" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/[yourprofile](https://www.linkedin.com/in/zainabwaqas/)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:you@example.com" target="_blank" rel="noreferrer">
+  <a href="penkardbyzainab@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" />
   </a>
 </p>
